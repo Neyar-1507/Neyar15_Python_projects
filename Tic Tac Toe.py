@@ -1,3 +1,4 @@
+#Tic Tac Toe terminal game developed by Neyar Nishanth
 def board():
     print("        |        |        ")
     print(f"  {a}     |   {b}    |   {c}    ")
